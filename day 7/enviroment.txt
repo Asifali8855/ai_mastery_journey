@@ -1,0 +1,1 @@
+you had to install python 3.11 as they have tensor flow. also need separate enviroment in each project. it will help you to solve all problem without any face error .
